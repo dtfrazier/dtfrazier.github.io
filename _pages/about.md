@@ -16,13 +16,11 @@ My research interests are broad, but my primary focus is in the area of simulati
 This includes novel methodological and theoretical developments in the realms approximate Bayesian computation (ABC), and generalized Bayesian inference. 
 My most recent work has focused on the challenging - but critically important - issue of model misspecification in simulation-based Bayesian inference and forecasting; explorations that are really at the cutting edge of thinking in this field.
 
-======
-
 Research Interests
 ======
 
-- Approximate Bayesian Computation
-- Bayesian Inference
+- Generalized and Approximate Bayesian Inference
+- Classical Bayesian Inference
 - Statistical Computing
 - Econometrics
 
