@@ -23,7 +23,7 @@ repository               : "dtfrazier.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "profile.png"
   name             : "David T. Frazier"
   pronouns         : # example: "she/her"  
   bio              : "Professor in EBS at Monash University"
