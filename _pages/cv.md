@@ -30,5 +30,4 @@ Grants
 
 Full CV
 ======
-
-  <div class="wordwrap">You can find my full cv <a href="{{dtfrazier.github.io/files/cv_Frazier.pdf}}">here</a>.</div>
+You can find my full CV [here](https://github.com/dtfrazier/dtfrazier.github.io/blob/master/files/cv_Frazier.pdf
