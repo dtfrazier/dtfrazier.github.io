@@ -30,4 +30,4 @@ Grants
 
 Full CV
 ======
-You can find my full CV [here](https://github.com/dtfrazier/dtfrazier.github.io/blob/master/files/cv_Frazier.pdf
+You can find my full CV [here](https://github.com/dtfrazier/dtfrazier.github.io/blob/master/files/cv_Frazier.pdf)
