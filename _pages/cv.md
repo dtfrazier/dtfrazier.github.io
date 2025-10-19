@@ -11,54 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D UNC-CH, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Monash University, 2014--Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Grants
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+ *Australian Research Council (ARC) Discovery Project (DP170100729)*: \$391,000; “The Validation of Approximate Bayesian Computation: Theory and Practice,” (with Gael M. Martin, Christian P. Robert and Eric Renault). \hfill 2017--2021.	
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+ *ARC Discovery Early Career Researcher Award Fellowship (DE200101070)*: \$376,496; “Consequences of Model Misspecification in Approximate Bayesian Computation.” \hfill 2020--2022.
+
+
+ *ARC Discovery Project (DP200101414)*: \$393,000. “Loss-based Bayesian Prediction,” (with Gael M. Martin, Rob J Hyndman and Worapree Maneesoonthorn). \hfill 2020--2022.
+
+ *ARC Discovery Project (DP250101069)*: \$460,000. “Controlling Feedback in Big Multi-Module Statistical and Econometric Models,” (with Michael S. Smith, and David J. Nott). \hfill 2025--2028.  
